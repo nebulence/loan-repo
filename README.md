@@ -3,7 +3,7 @@ This loan calculator contains 2 rest-api calls with simple calculation and amort
 
 Simple calculation:
 POST request call
-/calculator/simple-calculation
+(/calculator/simple-calculation)
 
 request body:
 {
@@ -19,7 +19,7 @@ response body:
 
 Amorization calculation, provides scheduled loan calculation:
 POST request call
-/calculator/amortization-calculation
+(/calculator/amortization-calculation)
 
 request body:
 {
